@@ -5,8 +5,6 @@
 
 ![Northon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNorthon&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevNorthon&exclude_repo=github-readme-stats,DevNorthon.github.io)](https://github.com/DevNorthon/github-readme-stats)
-
 ## Daily tools
 
 <div style="display: inline_block"><br/>
