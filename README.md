@@ -1,9 +1,10 @@
+
 ### Hello! I'm Northon Machado👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/northon-machado-7136b91a0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/northon_machado?igshid=YmMyMTA2M2Y=)
 
-![Northon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNorthon&show_icons=true&theme=merko)
+![Northon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNorthon&show_icons=true&theme=dark)
 
 ## Daily tools
 
